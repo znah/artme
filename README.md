@@ -2,4 +2,6 @@
 
 **Art Me** aspires to introduce art where everyone can find a personal response and reflection in his or her own soul, discover fascination in versatile aspects of life and human nature, where the boundaries are extended and the mind is open.  
 
-**Art Me** is open to cooperation with various art market players in Switzerland and abroad for the involvement in diverse art projects. 
+**Art Me** is open to cooperation with various art market players in Switzerland and abroad for the involvement in diverse art projects.
+
+Contact us via [info@artme.ch](mailto:info@artme.ch)
