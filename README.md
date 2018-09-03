@@ -4,4 +4,19 @@
 
 **Art Me** is open to cooperation with all interested art market participants in Switzerland and abroad who share this aspiration for involvement in diverse and innovative art projects.
 
-Contact us via [info@artme.ch](mailto:info@artme.ch)
+## Projects
+
+
+[![Art Fair Zurich 2018](assets/img/artzurich2018-banner2-250.png "Art Fair Zurich 2018")](https://art-zurich.com/files/2018/index.html)
+
+[catalog entry](https://issuu.com/78145/docs/art-zurich-2018-catalogue/16)
+
+
+## Press
+
+* [Vienna News: Künstliche Intelligenz kann auch Kunst, 31.08.2018](https://vienna-news.com/kuenstliche-intelligenz-kann-auch-kunst-zu-erleben-auf-der-20-kunstmesse-zuerich-20-23-september/)
+
+
+## Contacts
+
+email: [info@artme.ch](mailto:info@artme.ch)
