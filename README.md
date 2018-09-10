@@ -31,6 +31,5 @@ Jana Sam is Alex’ wife, creative partner and source of inspiration. She has cl
 
 ## Contacts
 
-phone: +41 79 833 0285
-
-email: [info@artme.ch](mailto:info@artme.ch)
+* phone: +41 79 833 0285
+* email: [info@artme.ch](mailto:info@artme.ch)
