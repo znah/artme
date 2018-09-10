@@ -11,6 +11,18 @@
 
 [catalog entry](https://issuu.com/78145/docs/art-zurich-2018-catalogue/16)
 
+## Artists
+
+**Alexander Mordvintsev & Jana Sam**: Stunning Contemporary Innovation
+
+<img src="assets/img/bossom.jpg" width="300px" style="display: block; margin: 0 auto;" />
+
+Extraordinary Artistic Duo: Alex Mordvintsev and Jana Sam build a bridge between abstract mathematical spaces emerging from artificial intelligence networks and the language of visual arts to create a mind blowing array of digital discoveries.
+
+Alex Mordvintsev has worked for nearly ten years on various industrial and research applications of image processing and computer vision. He joined Google Zurich in 2014, where he started to work on the understanding and interpretation of machine learning models based on deep neural networks. In 2015 he developed the DeepDream algorithm, attracting wide public attention to the emergent generative capabilities of these techniques.
+
+Jana Sam is Alex’ wife, creative partner and source of inspiration. She has closely followed Alexander’s work for many years, bringing her advice and insights to the deep connections between mathematical interpretation and visual impact. These two artists build on deep expertise in modern artificial intelligence to constantly develop contemporary and dynamic new outcomes. Their three mottos of culture, spirituality and sustainability merge equally throughout their art: the images depict the human subconscious, desires and emotions, spirituality, memories and fantasies, released through artificial intelligence from the results of search engines like Google. They provide a unique and distinctive experience, surprising the viewer with thoughtful and positive emotions, as the Impressionism of the past merges seamlessly into elements of the Inceptionism of the future.
+
 
 ## Press
 
