@@ -79,3 +79,16 @@ nav {
 	    background-color: #111;
 	}
 }
+
+#bossom {
+	float: left;
+	width: 100%;
+	max-width: 300px;
+	margin-right: 15px;
+
+	@include small {
+		float: none;
+		display: block; 
+		margin: 0 auto;
+	}
+}

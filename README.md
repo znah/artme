@@ -15,7 +15,7 @@
 
 **Alexander Mordvintsev & Jana Sam**: Stunning Contemporary Innovation
 
-<img src="assets/img/bossom.jpg" width="300px" style="display: block; margin: 0 auto;" />
+<img id="bossom" src="assets/img/bossom.jpg"/>
 
 Extraordinary Artistic Duo: Alex Mordvintsev and Jana Sam build a bridge between abstract mathematical spaces emerging from artificial intelligence networks and the language of visual arts to create a mind blowing array of digital discoveries.
 
