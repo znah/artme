@@ -13,7 +13,7 @@
 
 ## Artists
 
-**Alexander Mordvintsev & Jana Sam**: Stunning Contemporary Innovation
+**Jana Sam & Alexander Mordvintsev**: Stunning Contemporary Innovation
 
 <img id="bossom" src="assets/img/bossom.jpg"/>
 
