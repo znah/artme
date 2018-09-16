@@ -6,10 +6,13 @@
 
 ## Projects
 
-
-[![Art Fair Zurich 2018](assets/img/artzurich2018-banner2-250.png "Art Fair Zurich 2018")](https://art-zurich.com/files/2018/index.html)
-
-[catalog entry](https://issuu.com/78145/docs/art-zurich-2018-catalogue/16)
+<p style="text-align: center;">
+    <a href="https://art-zurich.com/files/2018/index.html">
+    <img src="assets/img/artzurich2018-banner2-250.png" title="Art Fair Zurich 2018">
+    </a>
+    <br>
+    <a href="https://issuu.com/78145/docs/art-zurich-2018-catalogue/16">catalog entry</a>
+</p>
 
 ## Artists
 
@@ -33,3 +36,4 @@ Jana Sam is Alex’ wife, creative partner and source of inspiration. She has cl
 
 * phone: +41 79 833 0285
 * email: [info@artme.ch](mailto:info@artme.ch)
+* [facebook.com/artmeassociation](https://www.facebook.com/artmeassociation/)
